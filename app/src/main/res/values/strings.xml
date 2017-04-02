@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Lab2-cz2-aplikacja2</string>
-    <string name="bmr">BMR</string>
-    <string name="tel">Systemowa: Dzwonienie</string>
-    <string name="zdj">Systemowa: Zdjecia</string>
-    <string name="internet">Systemowa: Internet</string>
+    <string name="bmr">Kalkulator BMR</string>
+    <string name="tel">Dzwonienie</string>
+    <string name="zdj">djecia</string>
+    <string name="internet">Internet</string>
     <string name="tekst">Witaj w aplikacji, która tylko włącza inne aplikacje.</string>
 </resources>
